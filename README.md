@@ -5,13 +5,7 @@ The mirrors of materials from UPMEM website.
 UPMEM SDK 为多个 Linux 平台提供了完整的安装包，支持 `.tar.gz`、`.deb` 和 `.rpm` 格式，内容包括核心组件、固件和驱动。
 ---
 
-### ✅ 可以在Release中下载，支持平台及文件列表
-
-#### Debian 10 (Buster) - x86_64
-- `tarball`: `upmem-2025.1.0-Linux-x86_64.tar.gz`
-- `package`: `upmem_2025.1.0_amd64.deb`
-- `firmware`: `upmem-firmware_2025.1.0_amd64.deb`
-- `kernel module`: `upmem-driver-dkms_2025.1.0_amd64.deb`
+### ✅ 可以在Release中下载，文件列表
 
 #### Ubuntu 22.04 LTS - x86_64
 - `tarball`: `upmem-2025.1.0-Linux-x86_64.tar.gz`
