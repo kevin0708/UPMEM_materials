@@ -2,10 +2,10 @@
 The mirrors of materials from UPMEM website.
 
 ## 📦 UPMEM SDK 包含内容说明
-UPMEM SDK 为多个 Linux 平台提供了完整的安装包，支持 `.tar.gz`、`.deb` 和 `.rpm` 格式，内容包括核心组件、固件和驱动。
+UPMEM SDK 为 Linux 平台提供了完整的安装包，支持 `.tar.gz`、`.deb` 和 `.rpm` 格式，内容包括核心组件、固件和驱动。
 ---
 
-### ✅ 可以在Release中下载，文件列表
+### ✅ 可以在upmem_sdk中下载，文件列表如下：
 
 #### Ubuntu 22.04 LTS - x86_64
 - `tarball`: `upmem-2025.1.0-Linux-x86_64.tar.gz`
@@ -29,10 +29,10 @@ SDK 同时提供以下源码组件：
 如需使用，请选择与系统匹配的安装包，并参考官方文档完成安装与部署。
 
 
-# UPMEM-Related Research Resources
+## 📂 UPMEM相关研究资料
 upmem官方网站上的论文下载后在upmem_papers目录下
 一些对应的github仓库如下所示
-## 📂 Projects and GitHub Links
+###  Projects and GitHub Links
 
 | Project Title | GitHub Repository |
 |---------------|------------------|
