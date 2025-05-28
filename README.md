@@ -30,6 +30,8 @@ SDK 同时提供以下源码组件：
 
 
 # UPMEM-Related Research Resources
+upmem官方网站上的论文下载后在upmem_papers目录下
+一些对应的github仓库如下所示
 ## 📂 Projects and GitHub Links
 
 | Project Title | GitHub Repository |
