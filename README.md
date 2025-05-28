@@ -16,11 +16,6 @@ UPMEM SDK 为多个 Linux 平台提供了完整的安装包，支持 `.tar.gz`�
 - 同 Debian 10 
 #### Ubuntu 22.04 LTS - x86_64
 - 同 Debian 10 
-#### Rocky 8 - x86_64
-- `tarball`: `upmem-2025.1.0-Linux-x86_64.tar.gz`
-- `package`: `upmem-2025.1.0-1.x86_64.rpm`
-- `firmware`: `upmem-firmware-2025.1.0-1.x86_64.rpm`
-- `kernel module`: `upmem-driver-dkms-2025.1.0-1dkms.noarch.rpm`
   
 ---
 ### ⚙️ Firmware 包含内容
