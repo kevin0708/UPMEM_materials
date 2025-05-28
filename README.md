@@ -1,6 +1,42 @@
 # UPMEM_materials
 The mirrors of materials from UPMEM website.
 
+## 📦 UPMEM SDK 包含内容说明
+UPMEM SDK 为多个 Linux 平台提供了完整的安装包，支持 `.tar.gz`、`.deb` 和 `.rpm` 格式，内容包括核心组件、固件和驱动。
+---
+
+### ✅ 支持平台及文件列表
+
+#### Debian 10 (Buster) - x86_64
+- `tarball`: `upmem-2025.1.0-Linux-x86_64.tar.gz`
+- `package`: `upmem_2025.1.0_amd64.deb`
+- `firmware`: `upmem-firmware_2025.1.0_amd64.deb`
+- `kernel module`: `upmem-driver-dkms_2025.1.0_amd64.deb`
+#### Ubuntu 20.04 LTS - x86_64
+- 同 Debian 10 
+#### Ubuntu 22.04 LTS - x86_64
+- 同 Debian 10 
+#### Rocky 8 - x86_64
+- `tarball`: `upmem-2025.1.0-Linux-x86_64.tar.gz`
+- `package`: `upmem-2025.1.0-1.x86_64.rpm`
+- `firmware`: `upmem-firmware-2025.1.0-1.x86_64.rpm`
+- `kernel module`: `upmem-driver-dkms-2025.1.0-1dkms.noarch.rpm`
+  
+---
+### ⚙️ Firmware 包含内容
+- **BIOS firmware**
+- **MCU firmware**
+
+---
+### 🧩 源码组件
+SDK 同时提供以下源码组件：
+- **Backends**：通信库与 DPU runtime
+- **Driver**：Linux 内核模块驱动
+- **LLVM toolchain**：基于 LLVM 的编译器与调试器
+---
+
+如需使用，请选择与系统匹配的安装包，并参考官方文档完成安装与部署。
+
 
 # UPMEM-Related Research Resources
 ## 📂 Projects and GitHub Links
